@@ -1,5 +1,5 @@
 # LogisticsDatabase
-This is a project I did in my first year of university.
+My SQL project from my first year of university.
 
 # 📦 Logistics Management Database
 
